@@ -1,0 +1,68 @@
+book
+esoterics
+Spirituality in Home
+299.90
+4589948572640
+481
+12
+book
+esoterics
+You and your Ghost Dog
+355.50
+4583098545640
+565
+6
+disc
+DVD
+John Wick 2
+500.00
+7102948374657
+video
+book
+programming
+C++ in 21 days
+21000.21
+0295863749576
+2121
+C++
+disc
+CD
+WinRAR
+45.90
+9310639811998
+software
+book
+cookery
+You Can Love Cooking
+1999.99
+8872661190123
+369
+water
+book
+programming
+JavaScript for Children
+455.30
+299873301772
+114
+JavaScript
+disc
+CD
+Adobe Photoshop CS2
+4560.90
+943621854568
+software
+disc
+DVD
+Game of Thrones Season 7
+899.90
+5123694955132
+video
+disc
+DVD
+Nirvana - The Man Who Sold the World and others
+910.40
+1954875921566
+software
+
+
+
